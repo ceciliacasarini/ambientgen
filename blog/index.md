@@ -16,7 +16,7 @@ Building a text-to-ambient-sound generator from scratch, learning generative AI 
 - [Day 2: First Sounds — What AudioLDM2 Can and Can't Do](02-first-sounds.md)
 
 ### Phase 3: Prompt Engineering for Audio
-- *Coming soon*
+- [Day 3: Prompt Engineering for Audio — What Actually Works](03-prompt-engineering.md)
 
 ### Phase 4: Building the Interface
 - *Coming soon*
